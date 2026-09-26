@@ -1,0 +1,8 @@
+[project]
+name = "ollama-proto"
+version = "0.1.0"
+description = "Talk to a local Ollama model from Python via the OpenAI-compatible API."
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.50",
+]
